@@ -2,6 +2,7 @@
 A repository which implements the experiments for exploring the phenomenon of robust overfitting, where robust performance on the test performance degradessignificantly over training. Created by [Leslie Rice][leslie link], [Eric Wong][eric link], and [Zico Kolter][zico link]. See our paper on arXiv [here][arxiv]. 
 
 ## News
++ 04/10/2020 - The AutoAttack framework of [Croce & Hein (2020)][autoattack arxiv] evaluated our released models using this repository [here][autoattack]. On CIFAR10, our models trained with standard PGD and early stopping ranks at \#5 overall, and \#1 for defenses that do not rely on additional data. 
 + 02/26/2020 - arXiv posted and repository release
 
 ## Robust overfitting hurts - early stopping is essential! 
@@ -31,3 +32,5 @@ Model weights for the following models can be found in this [drive folder][model
 
 [arxiv]: https://arxiv.org/abs/2002.11569
 [model weights]: https://drive.google.com/drive/folders/1FtplsMWGBYicAOmWDGSDP83CLwkLLxo9?usp=sharing
+[autoattack]: https://github.com/fra31/auto-attack
+[autoattack arxiv]: https://arxiv.org/abs/2003.01690

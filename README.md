@@ -31,6 +31,6 @@ Model weights for the following models can be found in this [drive folder][model
 [zico link]: http://zicokolter.com/
 
 [arxiv]: https://arxiv.org/abs/2002.11569
-[model weights]: https://drive.google.com/drive/folders/1FtplsMWGBYicAOmWDGSDP83CLwkLLxo9?usp=sharing
+[model weights]: https://drive.google.com/drive/folders/110JHo_yH9zwIf1b12jKoG6dRonrow9eA?usp=sharing
 [autoattack]: https://github.com/fra31/auto-attack
 [autoattack arxiv]: https://arxiv.org/abs/2003.01690
